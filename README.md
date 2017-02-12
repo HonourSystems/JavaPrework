@@ -8,4 +8,4 @@ git clone https://github.com/HonourSystems/JavaPrework.git
 ```
 And do the following:
 - Implement the calcuate function for PrimeCalculator so that the tests pass.
-- Write the test for RedisStringClient using NSubstitute to enable testing without the database.
+- Write the test for RedisPublishingStringClient using Mockito to enable testing without the database.
